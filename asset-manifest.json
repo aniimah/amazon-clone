@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ecommerce-clone/static/css/main.aaa16c96.chunk.css",
+    "main.js": "/ecommerce-clone/static/js/main.686d119b.chunk.js",
+    "main.js.map": "/ecommerce-clone/static/js/main.686d119b.chunk.js.map",
+    "runtime-main.js": "/ecommerce-clone/static/js/runtime-main.ecb299d1.js",
+    "runtime-main.js.map": "/ecommerce-clone/static/js/runtime-main.ecb299d1.js.map",
+    "static/js/2.29be5d07.chunk.js": "/ecommerce-clone/static/js/2.29be5d07.chunk.js",
+    "static/js/2.29be5d07.chunk.js.map": "/ecommerce-clone/static/js/2.29be5d07.chunk.js.map",
+    "index.html": "/ecommerce-clone/index.html",
+    "precache-manifest.d431a6fe2d7a3253f4506d52d16dc5f7.js": "/ecommerce-clone/precache-manifest.d431a6fe2d7a3253f4506d52d16dc5f7.js",
+    "service-worker.js": "/ecommerce-clone/service-worker.js",
+    "static/css/main.aaa16c96.chunk.css.map": "/ecommerce-clone/static/css/main.aaa16c96.chunk.css.map",
+    "static/js/2.29be5d07.chunk.js.LICENSE.txt": "/ecommerce-clone/static/js/2.29be5d07.chunk.js.LICENSE.txt",
+    "static/media/RANGO.png": "/ecommerce-clone/static/media/RANGO.b80953d2.png",
+    "static/media/eye-shadow.png": "/ecommerce-clone/static/media/eye-shadow.0e4ceae7.png",
+    "static/media/lipgloss.png": "/ecommerce-clone/static/media/lipgloss.40d45dd5.png",
+    "static/media/makeupbrush.png": "/ecommerce-clone/static/media/makeupbrush.be3e430a.png",
+    "static/media/makeupkit.png": "/ecommerce-clone/static/media/makeupkit.852e0210.png",
+    "static/media/model.jpg": "/ecommerce-clone/static/media/model.c55e9c85.jpg",
+    "static/media/nailpolish.png": "/ecommerce-clone/static/media/nailpolish.ed9d8f0c.png",
+    "static/media/nikead.jpg": "/ecommerce-clone/static/media/nikead.343741e1.jpg",
+    "static/media/ring light.png": "/ecommerce-clone/static/media/ring light.fe29f478.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecb299d1.js",
+    "static/js/2.29be5d07.chunk.js",
+    "static/css/main.aaa16c96.chunk.css",
+    "static/js/main.686d119b.chunk.js"
+  ]
+}
